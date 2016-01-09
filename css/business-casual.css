@@ -368,6 +368,7 @@ background-image: -webkit-linear-gradient(top, #FFFFFF 0%, #D3D8E8 100%);
 background-image: linear-gradient(to bottom, #FFFFFF 0%, #D3D8E8 100%);
 background-repeat: no-repeat;
 background-attachment: fixed;
+margin: 75px;
 }
 legend{
 	color:#141823;
