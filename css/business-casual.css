@@ -217,10 +217,9 @@ margin:0;
 }
 .media-object{
 margin:auto;
-<<<<<<< HEAD
 }
-=======
-}
+
+
 .bs-wizard {margin-top: 40px;}
 
 /*Form Wizard*/
@@ -244,13 +243,8 @@ margin:auto;
 .bs-wizard > .bs-wizard-step.disabled a.bs-wizard-dot{ pointer-events: none; }
 @import url(http://fonts.googleapis.com/css?family=Oswald);
 
-body{
-    font-family: 'Oswald', sans-serif;
-}
 
-h2{
-    display:inline-block;
-}
+
 .btn{
     margin: 4px;
     box-shadow: 1px 1px 5px #888888;
@@ -354,27 +348,14 @@ margin-top: 2px;
 
 a {color:#fff;}
 a:hover {text-decoration:none; color:#fff;}
-#wrap{
-background-image: -ms-linear-gradient(top, #FFFFFF 0%, #D3D8E8 100%);
-/* Mozilla Firefox */ 
-background-image: -moz-linear-gradient(top, #FFFFFF 0%, #D3D8E8 100%);
-/* Opera */ 
-background-image: -o-linear-gradient(top, #FFFFFF 0%, #D3D8E8 100%);
-/* Webkit (Safari/Chrome 10) */ 
-background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #FFFFFF), color-stop(1, #D3D8E8));
-/* Webkit (Chrome 11+) */ 
-background-image: -webkit-linear-gradient(top, #FFFFFF 0%, #D3D8E8 100%);
-/* W3C Markup, IE10 Release Preview */ 
-background-image: linear-gradient(to bottom, #FFFFFF 0%, #D3D8E8 100%);
-background-repeat: no-repeat;
-background-attachment: fixed;
-margin-bottom:75px;
-}
+
+
 legend{
 	color:#141823;
 	font-size:25px;
 	font-weight:bold;
 }
+
 .signup-btn {
   background: #79bc64;
   background-image: -webkit-linear-gradient(top, #79bc64, #578843);
@@ -406,12 +387,10 @@ legend{
   background-image: linear-gradient(to bottom, #79bc64, #5e7056);
   text-decoration: none;
 }
-.navbar-default .navbar-brand{
-		color:#fff;
-		font-size:30px;
-		font-weight:bold;
-	}
+
+
 .form .form-control { margin-bottom: 10px; }
+
 @media (min-width:768px) {
 	#home{
 		margin-top:50px;
@@ -423,8 +402,3 @@ legend{
 	}
 }
 
-
-
-}
-/*END Form Wizard*/
->>>>>>> origin/master
