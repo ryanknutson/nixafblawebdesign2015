@@ -402,3 +402,19 @@ legend{
 	}
 }
 
+
+.arrows {
+    color: black;
+	box-shadow: none !important;
+	background-color: transparent !important;
+	border: none !important;
+	cursor:default !important;
+}
+
+.w100 {
+	width: 100%;
+}
+
+.motto {
+	padding: 0 0 10px !important;
+}
