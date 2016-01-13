@@ -350,8 +350,8 @@ margin-top: 2px;
     outline-offset: 0px;
 }
 
-a {color:#fff;}
-a:hover {text-decoration:none; color:#fff;}
+a {color:#000;}
+a:hover {text-decoration:none; color:#000;}
 
 
 legend{
