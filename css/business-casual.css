@@ -201,7 +201,7 @@ footer p {
 }
 
 .carousel{
-    width: 50%;
+    width: 100%;
 }
 
 .content{
@@ -426,3 +426,4 @@ legend{
 .menuitem {
 	padding-top: 20%;
 }
+
