@@ -280,6 +280,10 @@ background-color: #f4ad49;
 border-bottom:2px solid #c38a3a;
 }
 
+.btn-sunny > a{
+color: black;
+}
+
 .btn-sunny:hover, .btn-sky.active:focus, .btn-sunny:focus, .open>.dropdown-toggle.btn-sunny {
 color: #fff;
 background-color: #f5b75f;
@@ -427,3 +431,23 @@ legend{
 	padding-top: 20%;
 }
 
+.signupform {
+	margin-bottom: 15px !important;
+}
+
+.btn-signup {
+color: black;
+background-color: #f4ad49;
+border-bottom:2px solid #c38a3a;
+cursor: default;
+}
+
+.btn-signup:hover, .btn-signup.active:focus, .btn-signup:focus, .open>.dropdown-toggle.btn-signup {
+color: black;
+background-color: #f4ad49;
+border-bottom:2px solid #c38a3a;
+cursor: default;}
+
+.signupdiv h3 {
+	text-transform: none !important;	
+}
