@@ -281,7 +281,7 @@ border-bottom:2px solid #c38a3a;
 }
 
 .btn-sunny > a{
-color: black;
+color: white;
 }
 
 .btn-sunny:hover, .btn-sky.active:focus, .btn-sunny:focus, .open>.dropdown-toggle.btn-sunny {
@@ -436,7 +436,7 @@ legend{
 }
 
 .btn-signup {
-color: black;
+color: white !important;
 background-color: #f4ad49;
 border-bottom:2px solid #c38a3a;
 cursor: default;
@@ -450,4 +450,14 @@ cursor: default;}
 
 .signupdiv h3 {
 	text-transform: none !important;
+}
+
+.emailimg {
+	padding-top: 100px;	
+}
+
+@media only screen and (max-width : 767px) {
+	.emailimg {
+		display: none;
+	}
 }
