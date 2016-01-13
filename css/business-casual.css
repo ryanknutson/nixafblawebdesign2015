@@ -470,3 +470,11 @@ cursor: default;}
 	font-size: 1.5em;	
 	
 }
+
+.footertext {
+	padding: 0 !important;
+}
+
+.footerspace {
+	padding: 10px !important;
+}
